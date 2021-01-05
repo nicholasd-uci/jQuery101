@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>jQuery101</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
@@ -15,7 +16,8 @@
     <script>
 
 // javaScript Syntax
-console.log(document.querySelector('myHeader').textContent)
+console.log(document.getElementById('myHeader').textContent)
+console.log(document.querySelector('#myHeader').textContent)
 
 // jQuery Syntax
 console.log($('#myHeader').text())
