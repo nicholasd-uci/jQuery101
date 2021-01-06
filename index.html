@@ -8,7 +8,7 @@
 </head>
 <body>
     
-<!-- Example One -->
+<!-- Example -->
 <h1 id="myHeader">Hello World!</h1>
 
 <!-- JavaScript CDN -->
@@ -22,22 +22,21 @@ console.log(document.querySelector('#myHeader').innerHTML)
 
 // jQuery Syntax - $ represents jQuery
 console.log($('#myHeader').text())
-// jQuery Syntax Inner HTML
+// jQuery Syntax - Inner HTML
 console.log($('#myHeader').html)
-// jQuery inner html
+// jQuery Syntax - Inner html
 $('#myHeader').html(`
 
+<h1>Hello World!</h1>
 <button>Click Me</button>
 
     `)
 
-
-// Passing/Changing or removing text content
+// Text Content
 // JS Syntax
 document.querySelector('#myHeader').textContent = 'Goodbye World!'
 // JQ Syntax
 $('#myHeader').text('Goodbye World!')
-
 
     </script>
 
