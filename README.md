@@ -17,7 +17,7 @@
 ```
 ![jqSyntaxEx1](./photos/jqSyntaxEx1.PNG)
 
-> In the Web Browser and Console Log Should Show Like this:
+> The Web Browser and Console Log Should look like this:
 
 ![jqSyntaxEx2](./photos/jqSyntaxEx2.PNG)
 
@@ -29,7 +29,21 @@
 
 ![textContent1](./photos/textContent1.PNG)
 
+> The Web Browser and Console Log Should look like this:
 
+![textContent2](./photos/textContent2.PNG)
+
+- - -
+
+***JQ Button***
+
+> In this section we created a button using JQ
+
+***figure 1***
+[button1](./photos/button1.PNG)
+
+***figure 2***
+[button2](./photos/button2.PNG)
 
 - - -
 
