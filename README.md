@@ -40,10 +40,10 @@
 > In this section we created a button using JQ
 
 ***figure 1***
-[button1](./photos/button1.PNG)
+![button1](./photos/button1.PNG)
 
 ***figure 2***
-[button2](./photos/button2.PNG)
+![button2](./photos/button2.PNG)
 
 - - -
 
