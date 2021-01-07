@@ -51,7 +51,7 @@
 
 ## LINKS
 
-- [jQuery Link](https://nicholasd-uci.github.io/jQuery101/)
+- [jQuery101 Link](https://nicholasd-uci.github.io/jQuery101/)
 - [Github Repo Link](https://github.com/nicholasd-uci/jQuery101)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
