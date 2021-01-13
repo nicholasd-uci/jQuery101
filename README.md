@@ -25,7 +25,7 @@
 
 ***Changing Text Content***
 
-> In this section we changed the Text Content on the HTML page
+> In this section we changed the Text Content on the HTML page:
 
 ![textContent1](./photos/textContent1.PNG)
 
